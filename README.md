@@ -4,9 +4,8 @@ Aplikacja została wystawiona jako API Rest.
 Metoda przekazywania parametrów to POST.
 Użyty został SpringBoot, który posiada wbudowany własny serwer aplikacyjny.
 
-Aby uruchomić z InteliJ aplikację wystarczy :
-- w WebScrapingApplication uruchomić metodę main. 
-- lub przechodząc do folderu target java -jar web-scraping-0.0.1-SNAPSHOT.jar
+- Aby uruchomić z InteliJ aplikację: w WebScrapingApplication uruchomić metodę main. 
+- lub przechodząc do folderu target i wywołać polcenie z CMD java -jar web-scraping-0.0.1-SNAPSHOT.jar
 
 
 Dostępne resource:
